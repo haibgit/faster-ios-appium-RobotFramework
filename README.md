@@ -1,2 +1,2 @@
 # faster-ios-appium-RobotFramework
- faster ios appium RF
+Using app from /ios app for run your test case
